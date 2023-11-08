@@ -1,0 +1,10 @@
+<resources>>
+    <string name="app_name">Calculator</string>
+    <string name="button">Advanced - With History</string>
+    <string name="result">Your Result</string>
+    <string name="noHistory">Standard-No History</string>
+    <string name="withHistory">Advanced-With History</string>
+    <string name="alertMessage">Put valid Number</string>
+    <string name="invalidInput">Put Valid Number Please</string>
+    <string name="history">Your History</string>
+</resources>
