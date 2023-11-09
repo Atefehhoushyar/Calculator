@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
               case R.id.buttonAdvance:
                   if(!showHistory){
                       ((Button)view).setText(getString(R.string.noHistory));
-                      view.setBackgroundColor(getColor(R.color.dimgray));
+                      view.setBackgroundColor(getColor(R.color.darkgray));
                       showHistory= true;
                       displayHistory();
                   }
